@@ -1,4 +1,4 @@
-DCGAN
+tensorflow-dcgan-mnist
 ======================
 
 
