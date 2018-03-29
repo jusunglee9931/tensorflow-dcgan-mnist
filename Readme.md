@@ -43,26 +43,20 @@ cDCGAN
 ## Epoch timelapse
 
 
+
 <table align='center'>
 <tr align='center'>
  <td> Epoch 0 </td>
-</tr>
-<tr align='center'>
+<td> Epoch 3 </td>
+<td> Epoch 6 </td>
+ </tr>
+<tr>
  <td><img src = 'img/cdc_gan_figure_epoch0.png'> </td>
-</tr>
-<tr align='center'>
- <td> Epoch 3 </td>
-</tr>
-<tr align='center'>
- <td><img src = 'img/cdc_gan_figure_epoch3.png'></td>
-</tr>
-<tr align='center'>
- <td> Epoch 6 </td>
-</tr>
-<tr align='center'>
+ <td><img src = 'img/cdc_gan_figure_epoch3.png'> </td>
  <td><img src = 'img/cdc_gan_figure_epoch6.png'> </td>
 </tr>
 </table>
+
 
 
 
